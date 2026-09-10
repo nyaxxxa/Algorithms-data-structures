@@ -13,6 +13,6 @@ if f(l) * f(r) < 0:
       r = b
     else:
       l = b
-  print(r-l)
+  print(b)
 else:
   print('Корня не имеет')

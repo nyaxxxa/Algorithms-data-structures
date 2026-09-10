@@ -1,3 +1,5 @@
+import math
+
 l = int(input())
 r = int(input())
 eps = 0.001
